@@ -3,7 +3,7 @@
 Library Management System for Stepwise University
 
 Submitted by: Evan Balson
-Time spent: 14 days
+### Time spent: 14 days
 
 ## Description:
 The Library Management System for Stepwise University is a C++ program designed to efficiently manage an imaginative university library's operations. It facilitates tasks such as:
