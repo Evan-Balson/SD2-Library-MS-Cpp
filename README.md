@@ -1,6 +1,9 @@
 # SD2-Library-MS-C++
 
-Library Management System for Stepwise University
+Library Management System for Stepwise University (CLI)
+
+<img src='https://github.com/Evan-Balson/SD2-Library-MS-Cpp/blob/main/LMS%20System%20CLI%20By%20Evan.png' title='Program Preview' width='' alt='Login-preview' />
+
 
 Submitted by: Evan Balson
 ### Time spent: 14 days
